@@ -1,0 +1,32 @@
+{
+    "sprites": [
+        {"x": 0,
+        "y": 0,
+        "width": 27,
+        "height": 27,
+        "offset_x": -8,
+        "offset_y": -4
+        },
+        {"x": 28,
+        "y": 0,
+        "width": 27,
+        "height": 27,
+        "offset_x": -8,
+        "offset_y": -4
+        },
+        {"x": 56,
+        "y": 0,
+        "width": 27,
+        "height": 27,
+        "offset_x": -8,
+        "offset_y": -4
+        },
+        {"x": 84,
+        "y": 0,
+        "width": 27,
+        "height": 27,
+        "offset_x": -8,
+        "offset_y": -4
+        }
+    ]
+}
