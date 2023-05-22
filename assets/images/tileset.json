@@ -1,0 +1,67 @@
+{
+    "sprites": [
+        {"x": 0,
+        "y": 0,
+        "width": 17,
+        "height": 18,
+        "offset_x": -1,
+        "offset_y": -2
+        },
+        {"x": 18,
+        "y": 0,
+        "width": 16,
+        "height": 18,
+        "offset_x": 0,
+        "offset_y": -2
+        },
+        {"x": 35,
+        "y": 0,
+        "width": 17,
+        "height": 18,
+        "offset_x": 0,
+        "offset_y": -2
+        },
+        {"x": 0,
+        "y": 19,
+        "width": 17,
+        "height": 16,
+        "offset_x": -1,
+        "offset_y": 0
+        },
+        {"x": 18,
+        "y": 19,
+        "width": 16,
+        "height": 16,
+        "offset_x": 0,
+        "offset_y": 0
+        },
+        {"x": 35,
+        "y": 19,
+        "width": 17,
+        "height": 16,
+        "offset_x": 0,
+        "offset_y": 0
+        },
+        {"x": 0,
+        "y": 36,
+        "width": 17,
+        "height": 16,
+        "offset_x": -1,
+        "offset_y": 0
+        },
+        {"x": 18,
+        "y": 36,
+        "width": 16,
+        "height": 16,
+        "offset_x": 0,
+        "offset_y": 0
+        },
+        {"x": 35,
+        "y": 36,
+        "width": 17,
+        "height": 16,
+        "offset_x": 0,
+        "offset_y": 0
+        }
+    ]
+}
