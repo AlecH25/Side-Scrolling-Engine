@@ -1,0 +1,11 @@
+{
+    "sprites": [
+        {"x": 0,
+        "y": 0,
+        "width": 8,
+        "height": 8,
+        "offset_x": 0,
+        "offset_y": 0
+        }
+    ]
+}
